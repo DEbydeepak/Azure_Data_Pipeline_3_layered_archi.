@@ -1,5 +1,5 @@
 # Insurancepolicy_project
-Created 3 layered (Bronze/Silver/Gold) architecture using Deltalake Framework.
+# Created 3 layered (Bronze/Silver/Gold) architecture using Deltalake Framework.
  
 ABC is an insurance company who sells insurance policy to retail customers. 
 Developed an end-to-end data engineering pipeline for an insurance company to analyze claims data and perform customer segmentation. 
