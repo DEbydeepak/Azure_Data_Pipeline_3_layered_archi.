@@ -1,4 +1,4 @@
-# Insurancepolicy_project
+# Insurance Policy Project
 # Created 3 layered (Bronze/Silver/Gold) architecture using Deltalake Framework.
  
 ABC is an insurance company who sells insurance policy to retail customers. 
